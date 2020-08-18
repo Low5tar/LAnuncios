@@ -22,3 +22,6 @@ A única dependência é o PlaceHolderAPI.
 
 <a><img src="https://imgur.com/qHQPmEb.png"></a>
 <a><img src="https://imgur.com/huF8gRs.png"></a>
+
+## Download
+[Clique aqui para baixar o arquivo]()
