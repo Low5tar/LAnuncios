@@ -1,0 +1,37 @@
+# L_Anuncios v1.0
+anuncio_enabled: true
+anuncio_random: false
+anuncio_intervalo: 60
+sound:
+  enabled: true
+  sound_name: NOTE_PLING
+  volume: 10
+  pitch: 1
+intervalo_anuncio_lista:
+- trabalhe_connosco
+- redes_sociais
+- noticias
+anuncios:
+  redes_sociais:
+  - '{"text": " "}'
+  - '{"text": "&e* Acesse nossas redes sociais, confira abaixo:"}'
+  - '{"text": " "}'
+  - '{"text":"&9[Discord] &fClique &7AQUI &fpara entrar em nosso servidor.", "clickEvent":{"action":"open_url","value":"https://discord.gg/"}}'
+  - '{"text":"&b[Twitter] &fClique &7AQUI &fpara acessar nosso perfil.", "clickEvent":{"action":"open_url","value":"https://twitter.com/"}}'
+  - '{"text":"&a[NameMC] &fClique &7AQUI &fpara acessar nosso perfil.", "clickEvent":{"action":"open_url","value":"https://pt.namemc.com/server/"}}'
+  - '{"text": " "}'
+  trabalhe_connosco:
+  - '{"text": " "}'
+  - '{"text": "&6* Trabalhe connosco! Confira abaixo nossas aplicações:"}'
+  - '{"text": " "}'
+  - '{"text":"&e[Suporte] &fClique &7AQUI &fpara enviar sua candidatura.", "clickEvent":{"action":"open_url","value":""}}'
+  - '{"text":"&3[Construtor] &fClique &7AQUI &fpara enviar sua candidatura.", "clickEvent":{"action":"open_url","value":""}}'
+  - '{"text":"&d[Designer] &fClique &7AQUI &fpara enviar sua candidatura.", "clickEvent":{"action":"open_url","value":""}}'
+  - '{"text": " "}'
+  noticias:
+  - '{"text": " "}'
+  - '{"text": "&a* Últimas notícias da nossa rede:"}'
+  - '{"text": " "}'
+  - '{"text": "&a[R. Clássico] &fClássico também pode ser inovador!", "clickEvent":{"action":"open_url","value":""},"hoverEvent":{"action":"show_text","value":["",{"text":"&7Autor:
+    &6Low5tar"},{"text":"\n"},{"text":"&7Data: &f00/00/00"},{"text":"\n"},{"text":"\n"},{"text":"&fClique para acessar."}]}}'
+  - '{"text": " "}'
