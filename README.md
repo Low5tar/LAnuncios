@@ -17,3 +17,8 @@ A única dependência é o PlaceHolderAPI.
 ## Redes Sociais
 
 **Discord** [Low5tar#1025](Low5tar#1025)
+
+## Exemplos
+
+<a><img src="https://imgur.com/qHQPmEb.png"></a>
+<a><img src="https://imgur.com/huF8gRs.png"></a>
