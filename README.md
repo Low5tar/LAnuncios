@@ -24,4 +24,4 @@ A única dependência é o PlaceHolderAPI.
 <a><img src="https://imgur.com/huF8gRs.png"></a>
 
 ## Download
-[Clique aqui para baixar o arquivo]()
+[Clique aqui para baixar o arquivo](https://www.spigotmc.org/resources/l_anuncios-1-8-an%C3%BAncios-em-json.82871/)
